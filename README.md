@@ -28,7 +28,7 @@ Estas bibliotecas vienen preinstaladas con Python, por lo que no es necesario in
    Si tienes Git instalado, puedes clonar el repositorio con el siguiente comando:
    
    ```bash
-   git clone https://github.com/tu_usuario/generador_contrasenas.git
+   git clone git@github.com:Daniel-Arbelo/password-generator.git
 
 2. **Ejecutar el script**:
    Abre una terminal y navega al directorio donde se encuentra el archivo `generador_contrasenas.py`. Luego, ejecuta el siguiente comando para iniciar el generador:
